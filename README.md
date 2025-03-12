@@ -1,16 +1,19 @@
-## Hi there 👋
+# Willkommen
 
-<!--
-**blex81/blex81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
 
-Here are some ideas to get you started:
+Als Geschäftsführer der **AV Digital Media GmbH** leite ich Projekte an der Schnittstelle von Technologie, Strategie und Innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kompetenzen
+
+- Entwicklung digitaler Geschäftsstrategien
+- Steuerung und Optimierung von Projekten
+- Zusammenarbeit mit Technologie- und Designteams
+- Aufbau nachhaltiger Geschäftsbeziehungen
+
+## Kontakt
+
+- **LinkedIn:** [Alexander Vogel](https://www.linkedin.com/in/alexander-vogel-5b838b1bb/)
+- **Website:** [www.av-digitalmedia.de](https://www.av-digitalmedia.de)
+
+Vielen Dank für Ihren Besuch.
